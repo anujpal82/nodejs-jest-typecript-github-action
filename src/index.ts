@@ -1,6 +1,6 @@
 import { server } from "./server";
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 80;
 
 /**
  * This comment will be regarded as a new feature for the staging environment
